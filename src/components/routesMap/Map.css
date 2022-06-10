@@ -1,0 +1,11 @@
+@import url('~leaflet/dist/leaflet.css');
+
+body,
+#root,
+.leaflet-container {
+    height: 100%;
+    width: 100%;
+}
+.leaflet-routing-container {
+    display: none;
+}

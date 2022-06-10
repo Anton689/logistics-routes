@@ -1,0 +1,17 @@
+.wrapper {
+    height: 60vh;
+    width: 60vw;
+    min-width: 500px;
+}
+
+@media(max-width: 1658px) {
+    .wrapper{
+        width: 50vw;
+    }
+}
+
+@media(max-width: 1362px) {
+    .wrapper{
+        width: 40vw;
+    }
+}
