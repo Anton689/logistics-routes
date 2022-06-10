@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/logistics-routes/static/css/main.ca0cfd5c.css",
+    "main.js": "/logistics-routes/static/js/main.65f55431.js",
+    "index.html": "/logistics-routes/index.html",
+    "main.ca0cfd5c.css.map": "/logistics-routes/static/css/main.ca0cfd5c.css.map",
+    "main.65f55431.js.map": "/logistics-routes/static/js/main.65f55431.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca0cfd5c.css",
+    "static/js/main.65f55431.js"
+  ]
+}
